@@ -370,7 +370,6 @@
   <block id="d40d8c2a64bb1eb3c0f3d71427af8d5b" category="list-text">建议内存： 12 GB RAM</block>
   <block id="2a5f7b7d2971ce371982c7b0b9bf6789" category="list-text">建议的 CPU ： 2</block>
   <block id="169debc36900220172817b74d871e07b" category="summary">您可以按照此处提供的说明，从现有 9.7.1 或更高版本的设置原位升级到最新版本的 ONTAP 工具。</block>
-  <block id="c5910340b269c593d16e5bb21c2ce618" category="paragraph">您可以按照此处提供的说明，从现有 9.7P1 或更高版本原位升级到最新版本的 ONTAP 工具。</block>
   <block id="2dc470ea65bfb20ee49093121123d780" category="list-text">您必须已下载最新版本 ONTAP 工具的 _.ISO_ 文件。</block>
   <block id="a4e823e6cf6b2607b41091f82b0af84a" category="list-text">您必须至少预留 12 GB RAM ， ONTAP 工具才能在升级后以最佳状态运行。</block>
   <block id="0f6b46646b20a88d8f02325e984a1ab4" category="list-text">您必须清理 vSphere Client 浏览器缓存。</block>
@@ -2001,4 +2000,5 @@
   <block id="5e9e6efcbe65718c4f8940b263317a69" category="paragraph"><block ref="7f4891afcb11aecd70e2cfd4c1573829" prefix="" category="inline-code"></block></block>
   <block id="5547d8d27b62c49e4555e1f79122a342" category="paragraph"><block ref="9e427bf42ac054021120757914ef1809" prefix="" category="inline-code"></block></block>
   <block id="b8ace162f3094fd5ac1138ced112d7a7" category="list-text">启动VMware vSphere Client服务：<block ref="bfbe7f4b006f6fcfc7bb66e075309067" prefix=" " category="inline-code"></block></block>
+  <block id="20f1e803dc0cd0cd8a34402229733015" category="paragraph">您可以按照此处提供的说明，将现有的ONTAP工具 9.10 或更高版本升级到最新版本。</block>
 </blocks>
